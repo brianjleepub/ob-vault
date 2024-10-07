@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Claude Notes.md",
+                "file": "Vault Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Claude Notes.md",
+                "file": "Vault Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Claude Notes.md"
+                "file": "Vault Structure.md"
               }
             }
           },
@@ -163,17 +163,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "007107b5a1cc2341",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,11 +179,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaa96c3778628dfb",
+  "active": "667882ed69356e46",
   "lastOpenFiles": [
     "Vault Structure.md",
     "readme.md",

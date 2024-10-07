@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "018d6e2147b30ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "436b5f44b3bbcfcd",
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Claude Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Claude Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Claude Notes.md"
               }
             }
           },
@@ -175,13 +163,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "007107b5a1cc2341",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "018d6e2147b30ccc",
+  "active": "aaa96c3778628dfb",
   "lastOpenFiles": [
-    "Claude Notes.md",
-    "readme.md",
     "Vault Structure.md",
+    "readme.md",
+    "Claude Notes.md",
     "Welcome.md"
   ]
 }
